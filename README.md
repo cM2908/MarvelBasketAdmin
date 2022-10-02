@@ -5,8 +5,13 @@ This repository contains the source code of one of the module (Admin Panel) of t
 (*) Admin panel : (Web Application)
     For managing all the users and seller accounts.
     (Tech-Stack : REST API : Spring Boot , FrontEnd : HTML, CSS, JavaScript, Bootstrap, Database : MySQL)
-    
+ 
+<b> Dashboard : </b>
 ![MarvelBastket Dashboard Image](https://github.com/cM2908/MarvelBasketAdmin/blob/master/MarvelBasket-Dashboard.png?raw=true)
+
+<b> Notifications Tab : </b>
+![MarvelBastket Notification Tab](https://github.com/cM2908/MarvelBasketAdmin/blob/master/MarvelBasket-Notifications-Tab.png?raw=true)
+(This notification tab is implemented using TreeSet for reverse sorting)
 
 Other modules of the project are :
 
