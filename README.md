@@ -5,6 +5,8 @@ This repository contains the source code of one of the module (Admin Panel) of t
 (*) Admin panel : (Web Application)
     For managing all the users and seller accounts.
     (Tech-Stack : REST API : Spring Boot , FrontEnd : HTML, CSS, JavaScript, Bootstrap, Database : MySQL)
+    
+![MarvelBastket Dashboard Image](https://github.com/cM2908/MarvelBasketAdmin/MarvelBasket-Dashboard.png?raw=true)
 
 Other modules of the project are :
 
